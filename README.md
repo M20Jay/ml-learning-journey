@@ -7,20 +7,20 @@ Built in public — one notebook at a time.
 
 ---
 
-## 📚 Notebooks
+### 📚 ML Learning Journey — Building In Public
 
-| # | Notebook | Status |
-|---|----------|--------|
-| 01 | EDA and Data Exploration | 🔄 In Progress |
-| 06 | ROC Curve and Evaluation Metrics | 🔄 In Progress |
-| 02 | Classification Models | ⏳ Coming Soon |
-| 03 | Regression Models | ⏳ Coming Soon |
-| 04 | Clustering | ⏳ Coming Soon |
-| 05 | Ensemble Methods | ⏳ Coming Soon |
-| 07 | Neural Networks | ⏳ Coming Soon |
-| 08 | TensorFlow and Keras | ⏳ Coming Soon |
-| 09 | API Integration and FastAPI | ⏳ Coming Soon |
-| 10 | Generative AI and RAG | ⏳ Coming Soon |
+| # | Notebook | Dataset | Status |
+|---|----------|---------|--------|
+| 01 | EDA and Data Exploration | Titanic | ✅ Complete |
+| 02 | Data Preprocessing and Cleaning | Titanic | ✅ Completen |
+| 03 | Classification Models | Titanic | ⏳ Coming Soon |
+| 04 | Regression Models | House Prices | ⏳ Coming Soon |
+| 05 | Model Evaluation and ROC Curves | Titanic | ✅ Complete |
+| 06 | Clustering and Unsupervised Learning | Mall Customers | ⏳ Coming Soon |
+| 07 | Neural Networks | MNIST | ⏳ Coming Soon |
+| 08 | TensorFlow and Keras | MNIST | ⏳ Coming Soon |
+| 09 | NLP Fundamentals | Twitter Sentiment | ⏳ Coming Soon |
+| 10 | Generative AI and RAG | Custom Documents | ⏳ Coming Soon |
 
 ---
 
