@@ -12,7 +12,7 @@ Built in public — one notebook at a time.
 | # | Notebook | Dataset | Status |
 |---|----------|---------|--------|
 | 01 | EDA and Data Exploration | Titanic | ✅ Complete |
-| 02 | Data Preprocessing and Cleaning | Titanic | ✅ Complete |
+| 02 | Data Preprocessing and Cleaning | Titanic | ✅ Complete|
 | 03 | Classification Models | Titanic | ⏳ Coming Soon |
 | 04 | Regression Models | House Prices | ⏳ Coming Soon |
 | 05 | Model Evaluation and ROC Curves | Titanic | ✅ Complete |
